@@ -26,3 +26,5 @@
 ## **Contact**
 
 [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=flat-square&logo=Telegram)](https://t.me/sudo_nautilus)
+[![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=flat-square&logo=Twitter)](https://www.twitter.com/sudo_nautilus)
+[![Discord Server](https://img.shields.io/badge/-DiscordServer-%23282a36?style=flat-square&logo=Discord)](https://discord.gg/wcGTM6epF7)
