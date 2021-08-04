@@ -1,5 +1,12 @@
 # Hey :wave:
- <!---todo--->
+ 
+I'm glad to know that you're actually reading these. I'm 15 actually (Am I too young to be here?). I love open source stuff even though I'm a cringe in it. I'm currently learning some programming languages as well as my lessons.
+
+- I love cats 😺
+- I love memes :trollface:
+- There are some songs which I usually hear a hundred times 🎵
+- I like spending my time on my studies 📚
+- I used to join the communities in Telegram and Discord 😼
 
 ### Favourite Languages
 
@@ -27,4 +34,4 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=flat-square&logo=Telegram)](https://t.me/sudo_nautilus)
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=flat-square&logo=Twitter)](https://www.twitter.com/sudo_nautilus)
-[![Discord Server](https://img.shields.io/badge/-DiscordServer-%23282a36?style=flat-square&logo=Discord)](https://discord.gg/wcGTM6epF7)
+[![Discord Server](https://img.shields.io/badge/-Discord%20Server-%23282a36?style=flat-square&logo=Discord)](https://discord.gg/wcGTM6epF7)
