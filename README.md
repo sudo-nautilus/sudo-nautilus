@@ -1,6 +1,6 @@
 # Hey :wave:
  
-I'm glad to know that you're actually reading these. I'm 15 actually (Am I too young to be here?). I love open source stuff even though I'm a cringe in it. I'm currently learning some programming languages as well as my lessons.
+I'm glad to know that you're actually reading these. I love open source stuff even though I'm a cringe in it. I'm currently learning some programming languages as well as my lessons.
 
 - I love cats 😺
 - I love memes :trollface:
