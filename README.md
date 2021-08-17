@@ -8,6 +8,12 @@ I'm glad to know that you're actually reading these. I love open source stuff ev
 - I like spending my time on my studies 📚
 - I used to join the communities in Telegram and Discord 😼
 
+<div>
+I'm like Bill:
+
+[![be like Bill](https://cdn.discordapp.com/attachments/548867094259826700/874498015103184936/unknown-21.png)](https://usa.kaspersky.com/resource-center/preemptive-safety/top-10-internet-safety-rules-and-what-not-to-do-online)
+</div>
+
 ### Favourite Languages
 
 [![Python](https://img.shields.io/badge/-Python-%23282a36?style=flat-square&logo=python)](https://python.org/)
