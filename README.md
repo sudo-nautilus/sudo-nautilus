@@ -28,7 +28,7 @@ I'm like Bill:
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=flat-square&logo=vim)](https://vim.org)
 [![Spotify](https://img.shields.io/badge/-Spotify-%23282a36?style=flat-square&logo=spotify)](https://spotify.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-%23282a36?style=flat-square&logo=YouTube)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23282a36?style=flat-square&logo=YouTube&logoColor=%23C70039)](https://youtube.com)
 
 
 ### Stats
