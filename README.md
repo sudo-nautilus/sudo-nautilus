@@ -9,9 +9,11 @@ I'm glad to know that you're actually reading these. I love open source stuff ev
 - I used to join the communities in Telegram and Discord 😼
 
 <div>
-I'm like Bill:
 
-[![be like Bill](https://cdn.discordapp.com/attachments/548867094259826700/874498015103184936/unknown-21.png)](https://usa.kaspersky.com/resource-center/preemptive-safety/top-10-internet-safety-rules-and-what-not-to-do-online)
+
+https://user-images.githubusercontent.com/78522210/131235965-a5b6470f-4274-485c-b0cd-f4365ab605c8.mp4
+
+
 </div>
 
 ### Favourite Languages
