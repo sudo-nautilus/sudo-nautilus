@@ -1,6 +1,6 @@
-# Hey :wave:
+# Hello Travellers :wave:
  
-I'm glad to know that you're actually reading these. I love open source stuff even though I'm a cringe in it. I'm currently learning some programming languages as well as my lessons.
+Pog content ™
 
 - I love cats 😺
 - I love memes :trollface:
