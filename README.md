@@ -10,10 +10,7 @@ Pog content ™
 
 <div>
 
-
-https://user-images.githubusercontent.com/78522210/131769798-3f788c18-a57a-43c8-b79c-6ab13937bd68.mp4
-
-Music: That One - Treyarch Sound
+https://user-images.githubusercontent.com/78522210/133761974-8ff63a7b-881b-460c-b31c-9d5cae6116b6.mp4
 
 I like this guy:
 
