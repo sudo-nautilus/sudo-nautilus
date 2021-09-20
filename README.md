@@ -12,10 +12,6 @@ Pog content ™
 
 https://user-images.githubusercontent.com/78522210/133761974-8ff63a7b-881b-460c-b31c-9d5cae6116b6.mp4
 
-I like this guy:
-
-https://user-images.githubusercontent.com/78522210/132455803-3b52e0ec-f667-4b41-bd2a-07a975098b42.mov
-
 </div>
 
 ### Favourite Languages
@@ -35,7 +31,10 @@ https://user-images.githubusercontent.com/78522210/132455803-3b52e0ec-f667-4b41-
 [![YouTube](https://img.shields.io/badge/-YouTube-%23282a36?style=flat-square&logo=YouTube&logoColor=%23C70039)](https://youtube.com)
 
 
-### Stats
+### Stats & Status
+
+[![Spotify status](https://sudo-nautilus.vercel.app/api/spotify)](https://open.spotify.com/user/1e0rbou3nzxas7lg57b6qfzci)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudo-nautilus&show_icons=true&theme=radical&count_private=true)](https://github.com/sudo-nautilus)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-nautilus&show_icons=true&theme=radical&layout=compact)](https://github.com/sudo-nautilus)
