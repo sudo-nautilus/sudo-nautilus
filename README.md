@@ -3,7 +3,7 @@
 Pog content™
 
 - Likes cats 😺 and memes :trollface:
-- Loves Retrowave
+- Loves Retrowave <img src="https://user-images.githubusercontent.com/78522210/134272716-3705216e-3ae9-43ed-b611-9eb6dd63396e.png" width="22">
 - I used to join the communities in Telegram and Discord 😼
 
 <div>
