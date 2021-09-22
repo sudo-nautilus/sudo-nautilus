@@ -1,11 +1,9 @@
 # Hello Travellers :wave:
  
-Pog content ™
+Pog content™
 
-- I love cats 😺
-- I love memes :trollface:
-- There are some songs which I usually hear a hundred times 🎵
-- I like spending my time on my studies 📚
+- Likes cats 😺 and memes :trollface:
+- Loves Retrowave
 - I used to join the communities in Telegram and Discord 😼
 
 <div>
