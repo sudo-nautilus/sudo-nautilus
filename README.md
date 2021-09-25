@@ -41,4 +41,3 @@ https://user-images.githubusercontent.com/78522210/133761974-8ff63a7b-881b-460c-
 
 [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=flat-square&logo=Telegram)](https://t.me/sudo_nautilus)
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=flat-square&logo=Twitter)](https://www.twitter.com/sudo_nautilus)
-[![Discord Server](https://img.shields.io/badge/-Discord%20Server-%23282a36?style=flat-square&logo=Discord)](https://discord.gg/wcGTM6epF7)
