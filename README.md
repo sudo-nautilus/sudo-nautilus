@@ -37,7 +37,9 @@ https://user-images.githubusercontent.com/78522210/133761974-8ff63a7b-881b-460c-
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-nautilus&show_icons=true&theme=radical&layout=compact)](https://github.com/sudo-nautilus)
 
-## **Contact**
+## **Socials or something**
 
-[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=flat-square&logo=Telegram)](https://t.me/sudo_nautilus)
-[![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=flat-square&logo=Twitter)](https://www.twitter.com/sudo_nautilus)
+[![Telegram](https://img.shields.io/badge/-Paper%20plane-%23282a36?style=flat-square&logo=Telegram)](https://t.me/sudo_nautilus)
+[![Twitter](https://img.shields.io/badge/-Blue%20bird-%23282a36?style=flat-square&logo=Twitter)](https://www.twitter.com/sudo_nautilus)
+[![Spotify](https://img.shields.io/badge/-I%20spot%20a%20fly-%23282a36?style=flat-square&logo=Spotify)](https://open.spotify.com/user/1e0rbou3nzxas7lg57b6qfzci)
+[![Reddit](https://img.shields.io/badge/-Radish-%23282a36?style=flat-square&logo=Reddit)](https://www.reddit.com/user/sudo-nautilus)
