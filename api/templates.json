@@ -1,8 +1,8 @@
 {
-    "current-theme": "perception",
+    "current-theme": "custom",
     "templates": {
         "light": "spotify.html.j2",
         "dark": "spotify-dark.html.j2",
-        "perception": "mind.html.j2"
+        "custom": "uwu.html.j2"
     }
 }
